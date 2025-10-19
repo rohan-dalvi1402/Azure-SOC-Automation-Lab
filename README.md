@@ -1,4 +1,4 @@
-# Azure-SOC-Automation-Lab
+# Azure SOC Automation Lab
 
 I built a small home SOC on Azure to study real-world brute-force attacks in real time. The setup involved exposing a Windows VM to the internet (a deliberate honeypot), streaming Windows Security logs into Microsoft Sentinel. Using KQL, I analyzed failed RDP login attempts, enriched attacker IPs with geolocation data and created a live attack map to visualize adversary activity in real time. Here’s how I did it step by step.
 
