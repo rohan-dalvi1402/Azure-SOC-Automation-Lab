@@ -1,0 +1,9 @@
+Source: Any  
+Source port ranges: *  
+Destination: Any  
+Service: Custom  
+Destination port ranges: *  
+Protocol: Any  
+Action: Allow  
+Priority: 100  
+Name: DANGER_AllowAnyCustomAnyInbound
